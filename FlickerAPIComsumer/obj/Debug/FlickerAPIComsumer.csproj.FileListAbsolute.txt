@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\bin\Debug\FlickerAPIComsumer.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\FlickerAPIComsumer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\FlickerAPIComsumer_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\FlickerAPIComsumer.g.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\FlickerAPIComsumer.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\FlickerAPIComsumer.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\bin\Debug\FlickerAPIComsumer.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\bin\Debug\FlickerAPIComsumer.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\FlickerAPIComsumer.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\FlickerAPIComsumer.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\bin\Debug\FlickrNet.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Wpf_App_Rahul_Tact.AI\FlickerAPIComsumer\FlickerAPIComsumer\obj\Debug\FlickerAPIComsumer_MarkupCompile.lref
